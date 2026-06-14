@@ -60,11 +60,6 @@ For example:
 py js_run.py advanced_tests.js
 ```
 
-### Running Verification Tests
-We have included a test runner covering the 5  test cases:
-```bash
-py test_runner.py
-```
 
 ---
 
