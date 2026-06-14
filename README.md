@@ -59,8 +59,25 @@ For example:
 ```bash
 py js_run.py advanced_tests.js
 ```
+---
+### Alternative Installation method
+This is published in PyPI as well
+#### Install from PyPI
 
+```bash
+pip install viswa-js-interpreter
+```
+#### Verify Installation
 
+```bash
+jsrun sample.js
+```
+
+Example:
+
+```bash
+jsrun advanced_tests.js
+```
 ---
 
 ## JavaScript Features Supported
